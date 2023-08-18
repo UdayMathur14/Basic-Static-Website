@@ -48,6 +48,7 @@ article {
        text-align:center ;
        font-size: 1.5rem;
        margin-right: 2rem;
+       display: inline;
 }
 
 footer{
@@ -59,3 +60,8 @@ footer{
        align-items: center;
        font-size: 1.5rem;
 }
+/* .art.content{
+       display: inline-block;
+       display: flex;
+       display: inline;
+} */
